@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9U+GFQQbOPkTRbr1GYPGaKVBn0u4g3H42bDeOH8eNxyWAGffL3CaDGJ2g3Lu0sSY9PGM93tx7TcoMsbdluN0Pg==",
+  "success": true,
+  "projectFilePath": "D:\\download\\期末專題破解版(icon)\\期末專題破解版(icon)\\期末專題破解版\\期末專題V1.0.0\\期末專題V1.0.0.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\koiok\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\koiok\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\koiok\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\koiok\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
