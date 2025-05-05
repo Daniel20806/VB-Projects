@@ -1,2 +1,2 @@
-# VB-Projects
-VB game
+# 視窗程式設計
+使用VB製作的大富翁游戲
